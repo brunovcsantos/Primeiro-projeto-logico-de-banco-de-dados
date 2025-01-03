@@ -1,11 +1,11 @@
 # Primeiro-projeto-logico-de-banco-de-dados
-Replicando a modelagem do projeto lógico de banco de dados para o cenário de e-commerce e aplicando junto os refinamentos propostos no módulo de modelagem conceitual.
+Replicando a modelagem do projeto lógico de banco de dados para o cenário de e-commerce e aplicando junto os refinamentos propostos no módulo de modelagem conceitual. <br>
 <br>
 Como demonstrado durante o desafio, realizei a criação do Script SQL para criação do esquema do banco de dados replicando os scripst da aula. Tambem apliquei no script
 os refinamentos propostos no módulo de modelagem conceitual, refinamentos propóstos: <br>
 -- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;<br>
 -- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;<br>
--- Entrega – Possui status e código de rastreio;
+-- Entrega – Possui status e código de rastreio;<br>
 <br>
 Desse modo criei scripts para aplicar tais refinamentos surgindo novas tabelas:<br>
 -- physicalperson <br>
